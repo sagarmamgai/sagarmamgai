@@ -21,10 +21,9 @@ I’m an aspiring Software Developer passionate about building real-world projec
 ![MS Word](https://img.shields.io/badge/-MS%20Word-2B579A?style=flat-square&logo=microsoft-word)
 
 ---
-
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/sagar-mamgai-431694226)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-mamgai-431694226)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sagarmamgai)
 
 ---
