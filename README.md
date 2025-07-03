@@ -28,5 +28,10 @@ I’m an aspiring Software Developer passionate about building real-world projec
 
 ---
 
-### ⚡ Quote I Live By  
-*“Code. Build. Break. Fix. Repeat.”*
+---
+
+### 📊 GitHub Stats
+
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarmamgai&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarmamgai&layout=compact&theme=tokyonight)
