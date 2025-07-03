@@ -2,7 +2,7 @@
 
 I’m an aspiring Software Developer passionate about building real-world projects and writing clean, efficient code.
 
-- 💻 Working with: C, Python, HTML
+- 💻 Working with: C++, Python, HTML
 - 🚀 Exploring: Data Structures & Web Development
 - 🛠️ Tools: VS Code, Git, MS Excel, MS Word
 - 🎯 Goal: Build strong dev skills and become placement-ready
